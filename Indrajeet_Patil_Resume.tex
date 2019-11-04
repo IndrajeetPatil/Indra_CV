@@ -1,0 +1,194 @@
+	
+	\documentclass[10pt]{article}
+	\usepackage{amssymb}
+	\usepackage{hyperref}
+	\usepackage{color}
+	\usepackage{soul}
+	\usepackage{fontawesome}
+	\usepackage[document]{ragged2e}
+	
+	\DeclareFontFamily{U}{fontawesomeOne}{}
+	\DeclareFontShape{U}{fontawesomeOne}{m}{n}
+  		{<-> FontAwesome--fontawesomeone}{}
+	\DeclareRobustCommand\FAone{\fontencoding{U}\fontfamily{fontawesomeOne}\selectfont}	
+	
+	\setlength{\headheight}{-0.8in}
+	\setlength{\headsep}{-0.3in}
+	\addtolength{\topmargin}{0.1in}
+	%\setlength{\topskip}{0.8in}
+	%\setlength{\topskip}{0.0in}
+	%\setlength{\topskip}{-1.0in}
+	%\setlength{\topskip}{-0.7in}
+	%\setlength{\footskip}{-0.6in}
+	%\setlength{\textheight}{10.0in}
+	\setlength{\textheight}{11.0in}
+	\setlength{\oddsidemargin}{0.0in}
+	\setlength{\evensidemargin}{0.0in}
+	\setlength{\textwidth}{6.8in}
+	
+	\clubpenalty 10000
+	\widowpenalty 10000
+	\sloppy
+	
+	\newcommand{\comment}[1]{}
+	\renewcommand{\baselinestretch}{1.0}
+	
+	\begin{document}
+	
+	\raggedright
+	
+	\setlength{\parindent}{0.0in}
+	
+	\setlength{\leftmargini}{0.25in}
+	\setlength{\leftmarginii}{0.25in}
+	
+	\newcommand{\heading}[1]{
+	 \raggedright
+	\begin{flushleft}
+	 \vspace{0.02in}
+	 {\sffamily\large\textsc{#1}}\\
+	 \rule[0.115in]{6.8in}{0.01in}
+	 \vspace{-0.365in}
+	\end{flushleft}
+	}
+	\newcommand{\elskip}
+	{\vspace*{0.03in}}
+	
+	\newcommand{\mins}
+	{\vspace*{-0.1in}}
+	
+	\newcommand{\miniskip}
+	{\vspace*{0.05in}}
+	
+	\newcommand{\header}{
+	\raggedright
+	\begin{flushleft}
+	\parbox[c]{1.95in}{
+	 \raggedright
+	\begin{flushleft}
+	Postdoctoral Fellow,\\
+	Max Planck Institute\\
+	for Human Development,\\
+	Berlin, Germany.\\
+	\end{flushleft}
+	}
+	\hfill
+	\begin{minipage}[c]{2.25in}	
+	 \begin{center}
+	  { \Large \textsc{\textcolor{black}{Indrajeet Patil}}\\
+	  \begin{small}
+	  \miniskip
+	  (\tt patilindrajeet.science@gmail.com)\\
+	  \texttt{\today}
+	  \end{small}}
+	 \end{center}
+	\end{minipage}
+	\hfill
+	\parbox[c]{1.8in}
+	{
+	\begin{flushright}
+	\raggedleft
+	 \href{https://goo.gl/ss7v6C}{\Huge \faGithub} ~~ \href{https://www.linkedin.com/in/indrajeet-patil-397865174/}{\Huge \faLinkedinSquare} ~~ \href{https://twitter.com/patilindrajeets}{\Huge \faTwitterSquare} ~~ \href{https://stackoverflow.com/users/7973626/indrajeet-patil}{\Huge \faStackOverflow} 
+	\end{flushright}
+	}
+	
+	%\miniskip\miniskip\miniskip
+	\end{flushleft}
+	\vspace*{-0.2in}
+	}
+	\newcommand{\smallheader}{
+	 \begin{center}
+	  {
+	 \Large \textsc{Indrajeet S. Patil}}
+	  \miniskip
+	 \end{center}
+	}
+	\thispagestyle{empty}
+	
+	\header
+
+	\heading{\textbf{Experience}}
+
+	$\bullet$ \textbf{\textcolor{blue}{Postdoctoral Fellow}}, \textcolor{black}{Max Planck Institute for Human Development}, Germany, 2019-.
+	\miniskip
+	
+	$\bullet$ \textbf{\textcolor{blue}{Postdoctoral Fellow}}, Department of Psychology, \textcolor{black}{Harvard University}, USA, 2017-2019.
+	\vspace*{-0.09in}
+	
+	\begin{itemize}
+	\itemsep-0.1em 
+	\item[--] Designed a novel Reinforcement Learning paradigm to model human moral learning.	
+	\item[--] Conducted a meta-analysis to dissociate the role of empathic concern versus distress in altruism.
+	\item[--] Created multiple R packages to analyze and visualize data (used by thousands of people worldwide).
+	\end{itemize}
+	\miniskip
+
+	$\bullet$ \textbf{\textcolor{blue}{Ph.D. Researcher}}, Scuola Internazionale Superiore di Studi Avanzati (\textcolor{black}{SISSA}), Trieste, Italy, 2011-2015.
+	\vspace*{-0.09in}
+
+	\begin{itemize}
+	\itemsep-0.1em 
+	\item[--] Collected	and analyzed over a billion	records of neuroimaging (both functional and anatomical) and psychophysiological (skin conductance) data to	link human moral decision-making and brain function.
+	\item[--] Created novel Virtual Reality paradigms to study human moral \textit{behavior}.
+	\item[--] Studied clinical deficits in autism, multiple sclerosis, and anxiety disorders.
+	\end{itemize}
+
+	\heading{\textbf{Technical Skills}}
+	
+	$\bullet$ \textcolor{blue}{\textbf{Programming}}:
+	R (advanced), HTML (intermediate), CSS (intermediate), SQL (intermediate), MATLAB \hspace*{0.1in}(intermediate), Python (beginner)\\
+	\miniskip
+	
+	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; published on \textcolor{red}{CRAN}; Total downloads: \textcolor{blue}{83,198}):
+	 \vspace*{-0.09in}
+	 
+	\begin{itemize}
+	\itemsep-0.1em
+	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{30,523}, since April 2018): Informative data visualizations with statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{22,502}, since July 2018): Grouped statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{20,064}, since March 2019): Enhancements for working with regression models.
+	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{4,591}, since August 2019): Creates expressions with statistical details.
+	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{5,518}, since August 2019): Multiple pairwise comparison tests.
+	\end{itemize}
+
+	$\bullet$ \textcolor{blue}{\textbf{Techniques}}: text mining, machine learning, meta-analysis, logistic/linear regression, linear/ordinal mixed \hspace*{0.1in}effects regression, clustering (\textit{k}-means, hierarchical cluster analysis, linear discriminant analysis), \textit{k}-nearest \hspace*{0.1in}neighbor, bagging, random forests, support vector machines, dimensionality reduction (PCA, ICA), \hspace*{0.1in}Reinforcement Learning, Bayesian statistics, cross validation, neural networks, naive Bayes classification, \hspace*{0.1in}Structural Equation Modeling, path analysis
+	\miniskip
+	
+	$\bullet$ \textcolor{blue}{\textbf{Document preparation}}: \LaTeX{}, RMarkdown, xaringan\\
+	\miniskip
+	
+	$\bullet$ \textcolor{blue}{\textbf{Version-control system}}: Git\\
+	\miniskip
+	
+	$\bullet$ \textcolor{blue}{\textbf{GUI softwares}} (for statistical analysis):
+	SPSS, jamovi, JASP, Amos, G*Power
+	\miniskip
+	
+	$\bullet$ \textcolor{blue}{\textbf{Online data collection}}: \textcolor{black}{Qualtrics}, \textcolor{black}{MTurk}
+	
+%	$\bullet$ \textcolor{blue}{\textbf{Skin conductance data analysis}}: \textcolor{black}{Ledalab}
+
+	\heading{\textbf{Publications}}
+	
+	$\bullet$ \textbf{\textcolor{red}{13}} first author, peer-reviewed publications\\
+	\hspace*{0.1in}\href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citations}: \textbf{\textcolor{red}{420}}, \textit{h}-index: \textbf{\textcolor{red}{9}}, \textit{i}10-index: \textbf{\textcolor{red}{9}}, \href{https://osf.io/hk5f3/}{Open materials} (13/13)\\
+	\hspace*{0.1in}Selected media coverage: \href{http://time.com/3242/driving-over-your-best-friend-its-the-right-thing-to-do/}{\textit{Time}}, \href{http://www.huffingtonpost.com/entry/autism-empathy-brain-research_us_56f92575e4b014d3fe237413}{\textit{The Huffington Post}}, \href{http://www.dailymail.co.uk/sciencetech/article-4308284/Virtual-reality-experiment-puts-altruism-test.html}{\textit{Daily Mail}}, \href{http://www.repubblica.it/scienze/2017/04/11/news/area_cervello_perdono-162669836/?rss}{\textit{la Repubblica}}, etc.\\
+
+	\heading{\textbf{Education}}
+	
+	$\bullet$ \textbf{\textcolor{blue}{Doctor of Philosophy}} (\textbf{Neuroscience}), \textcolor{black}{SISSA}, Trieste, Italy, 2011-2015 (\textit{summa cum laude}).\\ 
+	 \miniskip
+	
+	$\bullet$ \textbf{\textcolor{blue}{Master of Science}} (\textbf{Physics}), Department of Physics, \textcolor{black}{University of Pune}, India, 2008-2010.\\% (GPA: 4.2/6).\\
+	\miniskip
+	
+	$\bullet$ \textbf{\textcolor{blue}{Bachelor of Science}} (\textbf{Physics}), \textcolor{black}{Fergusson College}, India, 2005-2008.% (Score: 83$\%$).
+	
+	\heading{\textbf{Other Skills}}
+	
+	$\bullet$ \textcolor{blue}{\textbf{Communication}}: Skilled	at	disseminating complex ideas to a range of audiences, including	 scientists and \hspace*{0.1in}the general public (\textgreater ~\textbf{20} talks, published articles for newspapers).	
+	\miniskip
+	
+	$\bullet$ \textcolor{blue}{\textbf{Advising/Project Management}}: Coordinated large teams of multi-national researchers across multiple \hspace*{0.1in}neuroimaging studies across several years. Supervised and trained \textbf{7} students' undergraduate theses.
+	
+	\end{document}
