@@ -160,7 +160,7 @@
 	
 	\heading{\textbf{Publications}} 
 	\begin{center}
-	(*equal contribution, \href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citation count}: \textbf{\textcolor{red}{428}}, \textit{h}-index: \textbf{\textcolor{red}{9}}, \textit{i}10-index: \textbf{\textcolor{red}{9}}, \href{https://osf.io/hk5f3/}{Open data/scripts}: \textbf{\textcolor{red}{13/13}} publications)\\
+	(*equal contribution, \href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citation count}: \textbf{\textcolor{red}{431}}, \textit{h}-index: \textbf{\textcolor{red}{9}}, \textit{i}10-index: \textbf{\textcolor{red}{9}}, \href{https://osf.io/hk5f3/}{Open data/scripts}: \textbf{\textcolor{red}{13/13}} publications)\\
 	\end{center}
 
 	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Zucchelli, M. M.*, Kool, W., Campbell, S., Fornasier, F., Cal\`{o}, M., Silani, G., Cikara, M., \& \hspace*{0.1in}Cushman, F. A. (2019). Reasoning supports utilitarian resolutions to moral dilemmas across diverse \hspace*{0.1in}measures. \textit{\textcolor{blue}{Journal of Personality and Social Psychology}}. \href{https://psyarxiv.com/q86vx/}{\tt doi:10.31234/osf.io/q86vx}
@@ -198,20 +198,17 @@
 
 	\heading{\textbf{Preprints (or in preparation)}} 
 
-	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Dhaliwal, N. A.*, \& Cushman, F. A. (Under review). Reputational and cooperative benefits of \hspace*{0.1in}third-party compensation. \textit{\textcolor{blue}{Journal of Experimental Social Psychology}}. \href{https://psyarxiv.com/c3bsj/}{\tt doi:10.17605/OSF.IO/C3BSJ}
+	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Dhaliwal, N. A.*, \& Cushman, F. A. (Under review). Reputational and cooperative benefits of \hspace*{0.1in}third-party compensation. \textit{\textcolor{blue}{Organizational Behavior and Human Decision Processes}}. \hspace*{0.1in}\href{https://psyarxiv.com/c3bsj/}{\tt doi:10.17605/OSF.IO/C3BSJ}
 	\miniskip
 	
 	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}, \& Tr\'{e}moli\`{e}re, B. (Under review). I think, therefore I forgive: The role of reasoning in forgiving \hspace*{0.1in}accidental harms. \textit{\textcolor{blue}{Personality and Social Psychology Bulletin}}. \href{https://psyarxiv.com/8gjth/}{\tt doi:10.17605/OSF.IO/8GJTH}
 	\miniskip
 	
-	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Larsen, E.*, Kichic, R., \& Gleichgerrcht, E. (Under review). Moral cognition about harm in \hspace*{0.1in}anxiety disorders. \textit{\textcolor{blue}{Comprehensive Psychiatry}}. \href{https://psyarxiv.com/g5p7v/}{\tt doi:10.17605/OSF.IO/G5P7V}
+	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Larsen, E.*, Kichic, R., \& Gleichgerrcht, E. (Under review). Moral cognition about harm in \hspace*{0.1in}anxiety disorders. \textit{\textcolor{blue}{Psychological Reports}}. \href{https://psyarxiv.com/g5p7v/}{\tt doi:10.17605/OSF.IO/G5P7V}
 	\miniskip
 
 %	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Kool, W.*, Campbell, S.*, Silani, G., Cikara, M., \& Cushman, F. A. (in preparation). Moral \hspace*{0.1in}learning privileges model-free update.
 %	\miniskip
-		
-	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}, Fornasier, F., Cal\`{o}, M., \& Silani, G. (in preparation). The role of default mode network in \hspace*{0.1in}distinguishing between impersonal and personal harms on moral dilemmas.
-	\miniskip
 	
 	$\bullet$ Melsbach, J.*, \textbf{\textcolor{red}{Patil, I.}}*, Hennig-Fast, K., \& Silani, G. (in preparation). Preserved intent-based moral \hspace*{0.1in}judgments in high-functioning adults with autism.
 	
@@ -234,7 +231,7 @@
 	
 	$\bullet$ \textcolor{red}{\textbf{Programming skills}}\\
 	\hspace*{0.1in} Data analysis: \textcolor{blue}{R} (advanced), \textcolor{blue}{MATLAB} (intermediate), \textcolor{blue}{Python} (beginner)\\
-	\hspace*{0.1in} Web development: \textcolor{blue}{HTML} (intermediate), \textcolor{blue}{CSS} (intermediate)\\
+	\hspace*{0.1in} Web development: \textcolor{blue}{HTML/CSS} (intermediate), \textcolor{blue}{JavaScript} (intermediate)\\
 	\hspace*{0.1in} Database management: \textcolor{blue}{SQL} (intermediate)\\
 	\hspace*{0.1in}	Document preparation: \textcolor{blue}{RMarkdown} (advanced), \textcolor{blue}{xaringan} (advanced), \textcolor{blue}{\LaTeX{}} (intermediate)\\
 	\hspace*{0.1in}	Markup language: \textcolor{blue}{YAML}\\
@@ -244,16 +241,16 @@
 	$\bullet$ \textcolor{red}{\textbf{Special skills}}: text mining, machine learning, meta-analysis, logistic/linear regression, linear/ordinal mixed \hspace*{0.1in}effects regression, clustering (\textit{k}-means, hierarchical cluster analysis, linear discriminant analysis), \textit{k}-nearest \hspace*{0.1in}neighbor, bagging, random forests, support vector machines, dimensionality reduction (PCA, ICA), \hspace*{0.1in}Reinforcement Learning, Bayesian statistics, cross validation, neural networks, naive Bayes classification, \hspace*{0.1in}Structural Equation Modeling, path analysis
 	\miniskip
 	
-	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; published on \textcolor{red}{CRAN}; Total downloads: \textcolor{blue}{85,795}):
+	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; published on \textcolor{red}{CRAN}; Total downloads: \textcolor{blue}{94,404}):
 	 \vspace*{-0.09in}
 	 
 	\begin{itemize}
 	\itemsep-0.1em
-	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{30,969}, since April 2018): Informative data visualizations with statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{22,883}, since July 2018): Grouped statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{20,875}, since March 2019): Enhancements for working with regression models.
-	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{4,972}, since August 2019): Creates expressions with statistical details.
-	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{6,096}, since August 2019): Multiple pairwise comparison tests.
+	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{32,852}, since April 2018): Informative data visualizations with statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{24,523}, since July 2018): Grouped statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{23,099}, since March 2019): Enhancements for working with regression models.
+	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{6,266}, since August 2019): Creates expressions with statistical details.
+	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{7,664}, since August 2019): Multiple pairwise comparison tests.
 	\end{itemize}
 	
 
