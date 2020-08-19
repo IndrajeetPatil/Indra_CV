@@ -145,18 +145,18 @@
 	\hspace*{0.1in} Miscellaneous: \textcolor{blue}{Git/GitHub}, \textcolor{blue}{YAML} 
 	\miniskip
 	
-	$\bullet$ \textcolor{red}{\textbf{Open-source software development}} (in R; published on \textbf{CRAN}; Total downloads: \textcolor{blue}{\textbf{183,292}}):
+	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{323,420}}):
 	 \vspace*{-0.09in}
 	 
 	\begin{itemize}
 	\itemsep-0.1em
-	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{51,415}, 2018-): Informative data visualizations with statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{39,536}, 2018-): Grouped statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{41,381}, 2019-): Enhancements for working with regression models.
-	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{21,973}, 2019-): Creates expressions with statistical details.
-	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{21,053}, 2019-): Multiple pairwise comparison tests.
-    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{248}, 2020-): Tidy Wrapper for 'BayesFactor' Package.
-	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{7,686}, 2020-): Miscellaneous functions for data cleaning.	
+	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{72,373}, 2018-): Informative data visualizations with statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{58,485}, 2018-): Grouped statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{64,720}, 2019-): Enhancements for working with regression models.
+	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{40,198}, 2019-): Creates expressions with statistical details.
+	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{40,998}, 2019-): Multiple pairwise comparison tests.
+    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{17,776}, 2020-): Tidy Wrapper for 'BayesFactor' Package.
+	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{28,870}, 2020-): Miscellaneous functions for data cleaning.	
 %	\item[--] Co-author on \href{https://easystats.github.io/insight/}{\textcolor{red}{insight}}, \href{https://easystats.github.io/parameters/}{\textcolor{red}{parameters}} (downloads: \textcolor{blue}{$>$ 500K})
 	\end{itemize}
 
@@ -175,7 +175,7 @@
 	\heading{\textbf{Publications}}
 	
 	$\bullet$ \textbf{\textcolor{red}{13}} first author, peer-reviewed publications\\
-	\hspace*{0.1in}\href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citations}: \textbf{\textcolor{red}{479}}, \textit{h}-index: \textbf{\textcolor{red}{10}}, \textit{i}10-index: \textbf{\textcolor{red}{10}}, \href{https://osf.io/hk5f3/}{Open materials} (13/13)\\
+	\hspace*{0.1in}\href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citations}: \textbf{\textcolor{red}{580}}, \textit{h}-index: \textbf{\textcolor{red}{11}}, \textit{i}10-index: \textbf{\textcolor{red}{12}}, \href{https://osf.io/hk5f3/}{Open materials} (13/13)\\
 	\hspace*{0.1in}Selected media coverage: \href{http://time.com/3242/driving-over-your-best-friend-its-the-right-thing-to-do/}{\textit{Time}}, \href{http://www.huffingtonpost.com/entry/autism-empathy-brain-research_us_56f92575e4b014d3fe237413}{\textit{The Huffington Post}}, \href{http://www.dailymail.co.uk/sciencetech/article-4308284/Virtual-reality-experiment-puts-altruism-test.html}{\textit{Daily Mail}}, \href{http://www.repubblica.it/scienze/2017/04/11/news/area_cervello_perdono-162669836/?rss}{\textit{la Repubblica}}, etc.
 %\vspace*{-0.09in}
 
@@ -191,7 +191,7 @@
 %\vspace*{-0.09in}
 
 	\heading{\textbf{Languages}}
-	\textbf{Marathi} (C2), \textbf{Hindi} (C2), \textbf{English} (C2), \textbf{Italian} (A2), \textbf{German} (A2)
+	\textbf{Marathi} (C2), \textbf{Hindi} (C2), \textbf{English} (C2), \textbf{German} (B1), \textbf{Italian} (A2)
 %\vspace*{-0.09in}
 	
 	\heading{\textbf{Other Skills}}
