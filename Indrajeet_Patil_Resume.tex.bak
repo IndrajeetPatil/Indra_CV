@@ -145,18 +145,18 @@
 	\hspace*{0.1in} Miscellaneous: \textcolor{blue}{Git/GitHub}, \textcolor{blue}{YAML} 
 	\miniskip
 	
-	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{323,420}}):
+	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{354,467}}):
 	 \vspace*{-0.09in}
 	 
 	\begin{itemize}
 	\itemsep-0.1em
-	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{72,373}, 2018-): Informative data visualizations with statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{58,485}, 2018-): Grouped statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{64,720}, 2019-): Enhancements for working with regression models.
-	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{40,198}, 2019-): Creates expressions with statistical details.
-	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{40,998}, 2019-): Multiple pairwise comparison tests.
-    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{17,776}, 2020-): Tidy Wrapper for 'BayesFactor' Package.
-	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{28,870}, 2020-): Miscellaneous functions for data cleaning.	
+	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{77,126}, 2018-): Informative data visualizations with statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{61,272}, 2018-): Grouped statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{70,493}, 2019-): Enhancements for working with regression models.
+	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{44,107}, 2019-): Creates expressions with statistical details.
+	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{45,818}, 2019-): Multiple pairwise comparison tests.
+    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{22,163}, 2020-): Tidy Wrapper for 'BayesFactor' Package.
+	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{33,488}, 2020-): Miscellaneous functions for data cleaning.	
 %	\item[--] Co-author on \href{https://easystats.github.io/insight/}{\textcolor{red}{insight}}, \href{https://easystats.github.io/parameters/}{\textcolor{red}{parameters}} (downloads: \textcolor{blue}{$>$ 500K})
 	\end{itemize}
 
