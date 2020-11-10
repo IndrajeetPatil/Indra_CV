@@ -147,7 +147,7 @@
 	
 	\heading{\textbf{Publications}} 
 	\begin{center}
-	(*equal contribution, \href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citation count}: \textbf{\textcolor{red}{625}}, \textit{h}-index: \textbf{\textcolor{red}{11}}, \textit{i}10-index: \textbf{\textcolor{red}{12}}, \href{https://osf.io/hk5f3/}{Open data/scripts}: \textbf{\textcolor{red}{13/13}} publications)\\
+	(*equal contribution, \href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citation count}: \textbf{\textcolor{red}{665}}, \textit{h}-index: \textbf{\textcolor{red}{11}}, \textit{i}10-index: \textbf{\textcolor{red}{12}}, \href{https://osf.io/hk5f3/}{Open data/scripts}: \textbf{\textcolor{red}{13/13}} publications)\\
 	\end{center}
 
 	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Larsen, E.*, Kichic, R., \& Gleichgerrcht, E. (2020). Moral cognition about harm in \hspace*{0.1in}anxiety disorders. \textit{\textcolor{blue}{Psychological Reports}}. \href{https://psyarxiv.com/g5p7v/}{\tt doi:10.17605/OSF.IO/G5P7V}
@@ -194,7 +194,7 @@
 
 	\heading{\textbf{Preprints (or in preparation)}} 
 
-	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Dhaliwal, N. A.*, \& Cushman, F. A. (Under review). Reputational and cooperative benefits of \hspace*{0.1in}third-party compensation. \textit{\textcolor{blue}{Organizational Behavior and Human Decision Processes}}. \hspace*{0.1in}\href{https://psyarxiv.com/c3bsj/}{\tt doi:10.17605/OSF.IO/C3BSJ}
+	$\bullet$ Dhaliwal, N. A.*, \textbf{\textcolor{red}{Patil, I.}}*, \& Cushman, F. A. (Under review). Reputational and cooperative benefits of \hspace*{0.1in}third-party compensation. \textit{\textcolor{blue}{Organizational Behavior and Human Decision Processes}}. \hspace*{0.1in}\href{https://psyarxiv.com/c3bsj/}{\tt doi:10.17605/OSF.IO/C3BSJ}
 	\miniskip
 	
 	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}, \& Tr\'{e}moli\`{e}re, B. (Under review). I think, therefore I forgive: The role of reasoning in forgiving \hspace*{0.1in}accidental harms. \textit{\textcolor{blue}{Personality and Social Psychology Bulletin}}. \href{https://psyarxiv.com/8gjth/}{\tt doi:10.17605/OSF.IO/8GJTH}
@@ -230,19 +230,19 @@
 	$\bullet$ \textcolor{blue}{\textbf{Techniques}}: text mining, meta-analysis, logistic/linear regression, mixed effects regression, clustering \hspace*{0.1in}(\textit{k}-means, hierarchical cluster analysis, linear discriminant analysis), \textit{k}-nearest neighbor, bagging, random \hspace*{0.1in}forests, SVM, dimensionality reduction (PCA, ICA), Reinforcement Learning, Bayesian statistics, cross \hspace*{0.1in}validation, neural networks, Structural Equation Modeling, path analysis
 	\miniskip
 	
-	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{372,669}}):
+	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{417,370}}):
 	 \vspace*{-0.09in}
 	 
 	\begin{itemize}
 	\itemsep-0.1em
-	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{80,192}, 2018-): Informative data visualizations with statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{61,892}, 2018-): Grouped statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{73,543}, 2019-): Enhancements for working with regression models.
-	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{46,883}, 2019-): Creates expressions with statistical details.
-	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{48,438}, 2019-): Multiple pairwise comparison tests.
-    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{24,964}, 2020-): Tidy wrapper for Bayes Factor tests.
-	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{36,757}, 2020-): Miscellaneous functions for data cleaning.	
-	\item[--] Co-author on \href{https://easystats.github.io/insight/}{\textcolor{red}{insight}}, \href{https://easystats.github.io/parameters/}{\textcolor{red}{parameters}} (downloads: \textcolor{blue}{$>$ 500K})
+	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{88,198}, 2018-): Informative data visualizations with statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{63,561}, 2018-): Grouped statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{80,091}, 2019-): Enhancements for working with regression models.
+	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{54,019}, 2019-): Creates expressions with statistical details.
+	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{55,310}, 2019-): Multiple pairwise comparison tests.
+    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{31,411}, 2020-): Tidy wrapper for Bayes Factor tests.
+	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{44,780}, 2020-): Miscellaneous functions for data cleaning.	
+	\item[--] Co-author on \href{https://easystats.github.io/correlation/}{\textcolor{red}{correlation}}, \href{https://easystats.github.io/insight/}{\textcolor{red}{insight}}, \href{https://easystats.github.io/parameters/}{\textcolor{red}{parameters}} (downloads: \textcolor{blue}{$>$ 1M})
 	\end{itemize}	
 
 	$\bullet$ \textcolor{red}{\textbf{Statistical Analysis softwares}}\\
