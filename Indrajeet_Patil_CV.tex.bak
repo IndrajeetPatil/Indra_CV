@@ -145,12 +145,15 @@
 	\heading{\textbf{Languages}}
 	\textbf{Marathi} (C2), \textbf{Hindi} (C2), \textbf{English} (C2), \textbf{German} (B2), \textbf{Italian} (A2)
 	
-	\heading{\textbf{Publications}} 
+\heading{\textbf{Publications}} 
 	\begin{center}
-	(*equal contribution, \href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citation count}: \textbf{\textcolor{red}{682}}, \textit{h}-index: \textbf{\textcolor{red}{11}}, \textit{i}10-index: \textbf{\textcolor{red}{12}}, \href{https://osf.io/hk5f3/}{Open data/scripts}: \textbf{\textcolor{red}{13/13}} publications)\\
+	(*equal contribution, \href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citation count}: \textbf{\textcolor{red}{725}}, \textit{h}-index: \textbf{\textcolor{red}{11}}, \textit{i}10-index: \textbf{\textcolor{red}{12}}, \href{https://osf.io/hk5f3/}{Open data/scripts}: \textbf{\textcolor{red}{13/13}} publications)
 	\end{center}
 
-	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Larsen, E.*, Kichic, R., \& Gleichgerrcht, E. (2020). Moral cognition about harm in anxiety  \hspace*{0.1in}disorders. \textit{\textcolor{blue}{Psychological Reports}}. \href{https://psyarxiv.com/g5p7v/}{\tt doi:10.17605/OSF.IO/G5P7V}
+	$\bullet$ Dhaliwal, N. A.*, \textbf{\textcolor{red}{Patil, I.}}*, \& Cushman, F. A. (2021). Reputational and cooperative benefits of \hspace*{0.1in}third-party compensation. \textit{\textcolor{blue}{Organizational Behavior and Human Decision Processes}}. \hspace*{0.1in}\href{https://psyarxiv.com/c3bsj/}{\tt doi:10.17605/OSF.IO/C3BSJ}
+	\miniskip
+
+	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}*, Larsen, E.*, Kichic, R., \& Gleichgerrcht, E. (2020). Moral cognition about harm in anxiety  \hspace*{0.1in}disorders. \textit{\textcolor{blue}{Psychological Reports}}. \href{https://psyarxiv.com/g5p7v/}{\tt doi:10.1177/0033294120964134}
 	\miniskip
 
     $\bullet$ Lüdecke, D., Ben-Shachar,  M. S., \textbf{\textcolor{red}{Patil, I.}}, \& Makowski, D. (2020). Extracting, Computing and Exploring \hspace*{0.1in}the Parameters of Statistical Models using R. \textit{\textcolor{blue}{Journal of Open Source Software}}, \textit{5}(51), 2445. \hspace*{0.1in}\href{https://joss.theoj.org/papers/10.21105/joss.02445}{\tt https://doi.org/10.21105/joss.02445}
@@ -166,7 +169,7 @@
 	\miniskip	
 	
 	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}, Cal\`{o}, M., Fornasier, F., Cushman, F. A.*, \& Silani, G.* (2017). The behavioral and neural basis of \hspace*{0.1in}empathic blame. 
-	\textit{\textcolor{blue}{Scientific Reports}}, \textit{7}:5200. \href{https://drive.google.com/open?id=0B6_u70YpdJKnT1J6dkk5R1NPZDg}{\tt doi:10.1038/s41598-017-05299-9}
+ \textit{\textcolor{blue}{Scientific Reports}}, \textit{7}:5200. \href{https://drive.google.com/open?id=0B6_u70YpdJKnT1J6dkk5R1NPZDg}{\tt doi:10.1038/s41598-017-05299-9}
 	\miniskip
 	
 	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}, Cal\`{o}, M.*, Fornasier, F.*, Young, L., \& Silani, G. (2017). Neuroanatomical correlates of forgiving \hspace*{0.1in}unintentional harms. \textit{\textcolor{blue}{Scientific Reports}}, \textit{7}:45967. \href{https://drive.google.com/open?id=0B6_u70YpdJKnRV81UnNlZHdrdXM}{\tt doi:10.1038/srep45967}
@@ -192,15 +195,12 @@
 	\hspace*{0.1in}\href{https://drive.google.com/file/d/0B6_u70YpdJKnV3RIR2s2cWlFdVU/view?usp=sharing}{\tt doi:10.1080/17470919.2013.870091}
 	\miniskip
 
-	\heading{\textbf{Preprints (or in preparation)}} 
+%	\heading{\textbf{Preprints (or in preparation)}} 
+%	
+%	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}, \& Tr\'{e}moli\`{e}re, B. (Under review). I think, therefore I %forgive: The role of reasoning in forgiving \hspace*{0.1in}accidental harms. \textit{\textcolor{blue}{Personality and %Social Psychology Bulletin}}. \href{https://psyarxiv.com/8gjth/}{\tt doi:10.17605/OSF.IO/8GJTH}
+%	\miniskip
 
-	$\bullet$ Dhaliwal, N. A.*, \textbf{\textcolor{red}{Patil, I.}}*, \& Cushman, F. A. (Under review). Reputational and cooperative benefits of \hspace*{0.1in}third-party compensation. \textit{\textcolor{blue}{Organizational Behavior and Human Decision Processes}}. \hspace*{0.1in}\href{https://psyarxiv.com/c3bsj/}{\tt doi:10.17605/OSF.IO/C3BSJ}
-	\miniskip
-	
-	$\bullet$ \textbf{\textcolor{red}{Patil, I.}}, \& Tr\'{e}moli\`{e}re, B. (Under review). I think, therefore I forgive: The role of reasoning in forgiving \hspace*{0.1in}accidental harms. \textit{\textcolor{blue}{Personality and Social Psychology Bulletin}}. \href{https://psyarxiv.com/8gjth/}{\tt doi:10.17605/OSF.IO/8GJTH}
-	\miniskip
-
-	$\bullet$ Melsbach, J.*, \textbf{\textcolor{red}{Patil, I.}}*, Hennig-Fast, K., \& Silani, G. (in preparation). Preserved intent-based moral \hspace*{0.1in}judgments in high-functioning adults with autism.
+%	$\bullet$ Melsbach, J.*, \textbf{\textcolor{red}{Patil, I.}}*, Hennig-Fast, K., \& Silani, G. (in preparation). %Preserved intent-based moral \hspace*{0.1in}judgments in high-functioning adults with autism.
 	
 %	\heading{\textbf{Selected Media Coverage}}
 %	$\bullet$ \href{http://time.com/3242/driving-over-your-best-friend-its-the-right-thing-to-do/}{Driving Over Your Best Friend: It's the Right Thing to Do, \textcolor{blue}{\textit{Time}}, January 15, 2014}.
@@ -230,20 +230,20 @@
 	$\bullet$ \textcolor{blue}{\textbf{Techniques}}: text mining, meta-analysis, logistic/linear regression, mixed effects regression, clustering \hspace*{0.1in}(\textit{k}-means, hierarchical cluster analysis, linear discriminant analysis), \textit{k}-nearest neighbor, bagging, random \hspace*{0.1in}forests, SVM, dimensionality reduction (PCA, ICA), Reinforcement Learning, Bayesian statistics, cross \hspace*{0.1in}validation, neural networks, Structural Equation Modeling, path analysis
 	\miniskip
 	
-	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{417,370}}):
+	$\bullet$ \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{488,671}}):
 	 \vspace*{-0.09in}
 	 
 	\begin{itemize}
 	\itemsep-0.1em
-	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{88,198}, 2018-): Informative data visualizations with statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{63,561}, 2018-): Grouped statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{80,091}, 2019-): Enhancements for working with regression models.
-	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{54,019}, 2019-): Creates expressions with statistical details.
-	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{55,310}, 2019-): Multiple pairwise comparison tests.
-    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{31,411}, 2020-): Tidy wrapper for Bayes Factor tests.
-	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{44,780}, 2020-): Miscellaneous functions for data cleaning.	
-	\item[--] Co-author on \href{https://easystats.github.io/correlation/}{\textcolor{red}{correlation}}, \href{https://easystats.github.io/insight/}{\textcolor{red}{insight}}, \href{https://easystats.github.io/parameters/}{\textcolor{red}{parameters}} (downloads: \textcolor{blue}{$>$ 1M})
-	\end{itemize}	
+	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{101,848}, 2018-): Informative data visualizations with statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{67,525}, 2018-): Grouped statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{86,997}, 2019-): Enhancements for working with regression models.
+	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{66,092}, 2019-): Creates expressions with statistical details.
+	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{66,293}, 2019-): Multiple pairwise comparison tests.
+    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{42,719}, 2020-): Tidy wrapper for Bayes Factor tests.
+	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{57,197}, 2020-): Miscellaneous functions for data cleaning.	
+	\item[--] Co-author on \href{https://easystats.github.io/correlation/}{\textcolor{red}{correlation}}, \href{https://easystats.github.io/insight/}{\textcolor{red}{insight}}, \href{https://easystats.github.io/parameters/}{\textcolor{red}{parameters}}, \href{https://const-ae.github.io/ggsignif/}{\textcolor{red}{ggsignif}}, (downloads: \textcolor{blue}{$>$ 2M})
+	\end{itemize}
 
 	$\bullet$ \textcolor{red}{\textbf{Statistical Analysis softwares}}\\
 	\hspace*{0.1in}\textit{Classical}: \textcolor{blue}{SPSS}, \textcolor{blue}{jamovi}; \textit{Bayesian}: \textcolor{blue}{JASP}; \textit{Structural Equation Modeling}: \textcolor{blue}{Amos}; \textit{Power analysis}: \textcolor{blue}{G*Power}
