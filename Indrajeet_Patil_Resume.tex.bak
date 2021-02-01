@@ -109,21 +109,23 @@
 
 	\heading{\textbf{Experience}}
 
-	$\bullet$ \textbf{\textcolor{blue}{Postdoctoral Fellow}}, \textcolor{black}{Max Planck Institute for Human Development}, Germany, 2019-.
+	\begin{itemize}
+
+    \itemsep-0.1em
+	\item \textbf{\textcolor{blue}{Postdoctoral Fellow}}, \textcolor{black}{Max Planck Institute for Human Development}, Germany, 2019-.
 	\miniskip
 	
-	$\bullet$ \textbf{\textcolor{blue}{Postdoctoral Fellow}}, Department of Psychology, \textcolor{black}{Harvard University}, USA, 2017-2019.
+	\item \textbf{\textcolor{blue}{Postdoctoral Fellow}}, Department of Psychology, \textcolor{black}{Harvard University}, USA, 2017-2019.
 	\vspace*{-0.09in}
 	
 	\begin{itemize}
 	\itemsep-0.1em 
 	\item[--] Designed a novel Reinforcement Learning paradigm to model human moral learning.	
 	\item[--] Conducted a meta-analysis to dissociate the role of empathic concern versus distress in altruism.
-	%\item[--] Created multiple R packages to analyze and visualize data.
 	\end{itemize}
 	\vspace*{-0.09in}
 
-	$\bullet$ \textbf{\textcolor{blue}{Ph.D. Researcher}}, Scuola Internazionale Superiore di Studi Avanzati (\textcolor{black}{SISSA}), Trieste, Italy, 2011-2015.
+	\item \textbf{\textcolor{blue}{Ph.D. Researcher}}, Scuola Internazionale Superiore di Studi Avanzati (\textcolor{black}{SISSA}), Trieste, Italy, 2011-2015.
 	\vspace*{-0.09in}
 
 	\begin{itemize}
@@ -134,31 +136,37 @@
 	\end{itemize}
     \vspace*{-0.09in}
     
+	\end{itemize}    
+    
 	\heading{\textbf{Technical Skills}}
 	
 	\begin{itemize}
 	
 	\item \textcolor{blue}{\textbf{Programming skills}}\\
-    \itemsep-0.1em	
-	
+    
+    \begin{itemize}
+    
+    \itemsep-0.1em		
 	\item[--] Data analysis: \textcolor{blue}{R} (advanced), \textcolor{blue}{MATLAB} (intermediate), \textcolor{blue}{Python} (beginner)
 	\item[--] Database management: \textcolor{blue}{SQL} (intermediate)
 	\item[--] Web development: \textcolor{blue}{HTML/CSS} (intermediate), \textcolor{blue}{JavaScript} (intermediate)
 	\item[--] Document preparation: \textcolor{blue}{RMarkdown} (advanced), \textcolor{blue}{xaringan} (advanced), \textcolor{blue}{\LaTeX{}} (intermediate)
 	%Miscellaneous: \textcolor{blue}{Git/GitHub}, \textcolor{blue}{YAML} 
+
+	\end{itemize}
 	
-	\item \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{488,671}}):
+	\item \textcolor{blue}{\textbf{Open-source software development}} (in R; as \textbf{lead developer}; Total downloads: \textcolor{blue}{\textbf{> 500K}}):
 	 \vspace*{-0.09in}
 	 
 	\begin{itemize}
 	
 	\itemsep-0.1em
-	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{101,848}, 2018-): Informative data visualizations with statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{67,525}, 2018-): Grouped statistical analyses.
-	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{86,997}, 2019-): Enhancements for working with regression models.
-	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{66,092}, 2019-): Creates expressions with statistical details.
-	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{66,293}, 2019-): Multiple pairwise comparison tests.
-    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{42,719}, 2020-): Tidy wrapper for Bayes Factor tests.
+	\item[--] \href{https://indrajeetpatil.github.io/ggstatsplot/}{\textcolor{red}{ggstatsplot}} (Downloads: \textcolor{blue}{> 100K}, 2018-): Informative data visualizations with statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{groupedstats}} (Downloads: \textcolor{blue}{> 70K}, 2018-): Grouped statistical analyses.
+	\item[--] \href{https://indrajeetpatil.github.io/groupedstats/}{\textcolor{red}{broomExtra}} (Downloads: \textcolor{blue}{> 90K}, 2019-): Enhancements for working with regression models.
+	\item[--] \href{https://indrajeetpatil.github.io/statsExpressions/}{\textcolor{red}{statsExpressions}} (Downloads: \textcolor{blue}{> 70K}, 2019-): Creates expressions with statistical details.
+	\item[--] \href{https://indrajeetpatil.github.io/pairwiseComparisons/}{\textcolor{red}{pairwiseComparisons}} (Downloads: \textcolor{blue}{> 70K}, 2019-): Multiple pairwise comparison tests.
+    \item[--] \href{https://indrajeetpatil.github.io/tidyBF/}{\textcolor{red}{tidyBF}} (Downloads: \textcolor{blue}{> 45K}, 2020-): Tidy wrapper for Bayes Factor tests.
 	\item[--] \href{https://indrajeetpatil.github.io/ipmisc/}{\textcolor{red}{ipmisc}} (Downloads: \textcolor{blue}{57,197}, 2020-): Miscellaneous functions for data cleaning.	
 	\item[--] Co-author on \href{https://easystats.github.io/correlation/}{\textcolor{red}{correlation}}, \href{https://easystats.github.io/insight/}{\textcolor{red}{insight}}, \href{https://easystats.github.io/parameters/}{\textcolor{red}{parameters}}, \href{https://const-ae.github.io/ggsignif/}{\textcolor{red}{ggsignif}}, (downloads: \textcolor{blue}{$>$ 2M})
 	
@@ -182,7 +190,7 @@
 	\begin{itemize}
 	\item \textbf{\textcolor{red}{13}} first author, peer-reviewed publications\\
 	
-	\href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citations}: \textbf{\textcolor{red}{728}}, \textit{h}-index: \textbf{\textcolor{red}{12}}, \textit{i}10-index: \textbf{\textcolor{red}{12}}, \href{https://osf.io/hk5f3/}{Open materials} (13/13)\\
+	\href{https://scholar.google.it/citations?user=kSYuYTUAAAAJ&hl=en&oi=ao}{Citations}: \textbf{\textcolor{red}{767}}, \textit{h}-index: \textbf{\textcolor{red}{12}}, \textit{i}10-index: \textbf{\textcolor{red}{12}}, \href{https://osf.io/hk5f3/}{Open materials} (13/13)\\
 	
 	Selected media coverage: \href{http://time.com/3242/driving-over-your-best-friend-its-the-right-thing-to-do/}{\textit{Time}}, \href{http://www.huffingtonpost.com/entry/autism-empathy-brain-research_us_56f92575e4b014d3fe237413}{\textit{The Huffington Post}}, \href{http://www.dailymail.co.uk/sciencetech/article-4308284/Virtual-reality-experiment-puts-altruism-test.html}{\textit{Daily Mail}}, \href{http://www.repubblica.it/scienze/2017/04/11/news/area_cervello_perdono-162669836/?rss}{\textit{la Repubblica}}, etc.
 	
@@ -193,6 +201,7 @@
 	
 	\begin{itemize}	
 	
+	\itemsep-0.1em
 	\item \textbf{\textcolor{blue}{Doctor of Philosophy}} (\textbf{Neuroscience}), \textcolor{black}{SISSA}, Trieste, Italy, 2011-2015 (\textit{summa cum laude}).
 
 	\item \textbf{\textcolor{blue}{Master of Science}} (\textbf{Physics}), Department of Physics, \textcolor{black}{University of Pune}, India, 2008-2010.% (GPA: 4.2/6).
