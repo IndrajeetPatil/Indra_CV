@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.10)  1 MAY 2021 09:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.10)  25 MAY 2021 18:08
 entering extended mode
 **./Indrajeet_Patil_Resume.tex
 (Indrajeet_Patil_Resume.tex
@@ -344,12 +344,12 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 110.
 
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
-30.
+24.
 (C:\Program Files\MiKTeX\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 230.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 224.
 
 Overfull \vbox (57.81621pt too high) has occurred while \output is active []
 
@@ -368,11 +368,11 @@ Package rerunfilecheck Info: File `Indrajeet_Patil_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  9917 strings out of 479334
  144567 string characters out of 2866957
- 441973 words of memory out of 3000000
+ 438973 words of memory out of 3000000
  27248 multiletter control sequences out of 15000+200000
  409496 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,5n,74p,661b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,5n,74p,571b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\inp099\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1000.pk>{C:/Users/inp099/AppData/Roaming/MiKTeX/fonts/enc/dvips/fontawesome/fo
 ntawesomethree.enc}{C:/Users/inp099/AppData/Roaming/MiKTeX/fonts/enc/dvips/font
@@ -386,7 +386,7 @@ nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.p
 fb>
-Output written on Indrajeet_Patil_Resume.pdf (1 page, 141088 bytes).
+Output written on Indrajeet_Patil_Resume.pdf (1 page, 140725 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)

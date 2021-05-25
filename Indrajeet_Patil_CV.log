@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.10)  1 MAY 2021 09:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.10)  25 MAY 2021 18:07
 entering extended mode
 **./Indrajeet_Patil_CV.tex
 (Indrajeet_Patil_CV.tex
@@ -360,7 +360,7 @@ Overfull \vbox (28.90755pt too high) has occurred while \output is active []
 
 
 [2]
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 313--313
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 306--306
 [][] 
  []
 
@@ -390,7 +390,7 @@ Here is how much of TeX's memory you used:
  27152 multiletter control sequences out of 15000+200000
  409351 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,5n,74p,657b,453s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,6n,74p,583b,453s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\inp099\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1000.pk>{C:/Users/inp099/AppData/Roaming/MiKTeX/fonts/enc/dvips/fontawesome/fo
 ntawesomethree.enc}{C:/Users/inp099/AppData/Roaming/MiKTeX/fonts/enc/dvips/font
@@ -404,9 +404,9 @@ nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.
 pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Indrajeet_Patil_CV.pdf (5 pages, 187826 bytes).
+Output written on Indrajeet_Patil_CV.pdf (5 pages, 187750 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
